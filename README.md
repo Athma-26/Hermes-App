@@ -32,13 +32,13 @@ Whether you're an avid reader or just starting, Hermes provides a seamless exper
 
 Here's a glimpse of Hermes in action!
 
-| Splash Screen 🚀 | Book List (Light) 📖 | Book List (Dark) 🌙 |
-| :---------------- | :------------------ | :---------------- |
-| ![](/assets/screenshots/splash_screen.png) | ![](/assets/screenshots/book_list_light.png) | ![](/assets/screenshots/book_list_dark.png) |
+| Splash Screen 🚀 | Add Book Form ✍️ | 
+| :---------------- | 
+| ![Image](https://github.com/user-attachments/assets/b50dce2f-5076-4a75-8795-6c72f68bd2fd) | ![](/assets/screenshots/book_list_light.png) | ![Image](https://github.com/user-attachments/assets/18c1f95e-7e82-4ad7-9dfe-c01235b6761b) | ![](/assets/screenshots/search_results.png) |
 
-| Book Details (Reviews) 📝 | Add/Edit Book Form ✍️ | Search Results 🔍 |
+| Book Details (NotReaded) 📝 | Book Details (Readed) | 
 | :----------------------- | :------------------ | :---------------- |
-| ![](/assets/screenshots/book_details.png) | ![](/assets/screenshots/edit_book_form.png) | ![](/assets/screenshots/search_results.png) |
+| ![Image](https://github.com/user-attachments/assets/67fd94dc-1c0c-4ae5-804a-ed7829cd62da) | ![Image](https://github.com/user-attachments/assets/be67a6ba-17b5-44ac-b3d8-d6d9a5634f26) |
 
 ---
 
@@ -46,7 +46,7 @@ Here's a glimpse of Hermes in action!
 
 Watch a short video demonstration of Hermes' core features!
 
-[![Hermes Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Hermes Demo Video]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg](https://github.com/user-attachments/assets/4f6b2274-f428-4072-ac61-bd439c175995))]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://github.com/user-attachments/assets/4f6b2274-f428-4072-ac61-bd439c175995))
 *(Click the image above to watch the demo on YouTube)*
 
 ---
