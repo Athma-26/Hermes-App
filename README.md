@@ -1,4 +1,4 @@
-# Boock-Tracking-App
+# Book-Tracking-App
 # 📚 Hermes: Your Personal Messenger of Knowledge
 
 [![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter)](https://flutter.dev/)
