@@ -32,22 +32,14 @@ Whether you're an avid reader or just starting, Hermes provides a seamless exper
 
 Here's a glimpse of Hermes in action!
 
-| Splash Screen 🚀 | Add Book Form ✍️ | 
-| :---------------- | 
-| ![Image](https://github.com/user-attachments/assets/b50dce2f-5076-4a75-8795-6c72f68bd2fd) | ![](/assets/screenshots/book_list_light.png) | ![Image](https://github.com/user-attachments/assets/18c1f95e-7e82-4ad7-9dfe-c01235b6761b) | ![](/assets/screenshots/search_results.png) |
-
-| Book Details (NotReaded) 📝 | Book Details (Readed) | 
-| :----------------------- | :------------------ | :---------------- |
-| ![Image](https://github.com/user-attachments/assets/67fd94dc-1c0c-4ae5-804a-ed7829cd62da) | ![Image](https://github.com/user-attachments/assets/be67a6ba-17b5-44ac-b3d8-d6d9a5634f26) |
-
+<table> <tr> <th align="center">🚀 Splash Screen</th> <th align="center">✍️ Add Book Form</th> </tr> <tr> <td align="center"> <img src="https://github.com/user-attachments/assets/b50dce2f-5076-4a75-8795-6c72f68bd2fd" width="260"/> </td> <td align="center"> <img src="https://github.com/user-attachments/assets/18c1f95e-7e82-4ad7-9dfe-c01235b6761b" width="260"/> </td> </tr> </table> <br/> <table> <tr> <th align="center">📝 Book Details (Not Read)</th> <th align="center">✅ Book Details (Read)</th> </tr> <tr> <td align="center"> <img src="https://github.com/user-attachments/assets/67fd94dc-1c0c-4ae5-804a-ed7829cd62da" width="260"/> </td> <td align="center"> <img src="https://github.com/user-attachments/assets/be67a6ba-17b5-44ac-b3d8-d6d9a5634f26" width="260"/> </td> </tr> </table>
 ---
 
 ## 🎥 Demo Video
 
 Watch a short video demonstration of Hermes' core features!
 
-[![Hermes Demo Video]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg](https://github.com/user-attachments/assets/4f6b2274-f428-4072-ac61-bd439c175995))]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://github.com/user-attachments/assets/4f6b2274-f428-4072-ac61-bd439c175995))
-*(Click the image above to watch the demo on YouTube)*
+https://github.com/user-attachments/assets/4f6b2274-f428-4072-ac61-bd439c175995
 
 ---
 
