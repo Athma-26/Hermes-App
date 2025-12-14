@@ -80,7 +80,7 @@ Follow these steps to get Hermes up and running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Athma-26/Boock-Tracking-App.git](ttps://github.com/Athma-26/Boock-Tracking-App.git)
+    git clone [https://github.com/Athma-26/Hermes-App.git](ttps://github.com/Athma-26/Hermes-App.git)
     cd hermes-book-tracker
     ```
 
